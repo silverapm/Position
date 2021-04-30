@@ -3,11 +3,6 @@
     margin: 0;
 }
 
-body{
-    max-width: 1500px;
-    margin: auto;
-}
-
 header {
     background-color: #ff0000;
     height: 20px;
