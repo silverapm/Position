@@ -1,0 +1,97 @@
+/*1024*/
+/*992*/
+/*768*/
+/*414*/
+/*372*/
+/*360*/
+/*320*/
+@media only screen and (max-width: 1024px) {
+    section a {
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+    section a {
+        max-width: 380px;
+    }
+
+    section .conteiner .media {
+        width: 380px;
+        height: 230px;
+    }
+
+    section .conteiner p {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 460px) {
+    section a img {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+    section a img {
+        width: 95%;
+    }
+
+}
+
+@media only screen and (max-width: 440px) {
+    section a img {
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-width: 430px) {
+    section a img {
+        width: 85%;
+    }
+
+}
+
+@media only screen and (max-width: 420px) {
+    section a img {
+        width: 80%;
+    }
+
+}
+
+@media only screen and (max-width: 414px) {
+    section .conteiner .media {
+        width: 360px;
+        height: 215px;
+    }
+
+}
+
+@media only screen and (max-width: 372px) {
+    section .conteiner .media {
+        width: 340px;
+        height: 205px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    section .conteiner .media {
+        width: 280px;
+        height: 175px;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
